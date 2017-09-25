@@ -1,0 +1,4 @@
+__pycache__/
+.idea/
+array_questions/__pycache__/
+linked_list_questions/__pycache__/
